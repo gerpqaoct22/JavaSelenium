@@ -4,6 +4,7 @@ import oct22.day2_Java.Car;
 
 public class Audi extends Car {
 	
+	//this is method
 	public void navigationScreen()
 	{
 		System.out.println("Audi - Navigation Screen");
